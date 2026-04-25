@@ -29,14 +29,15 @@ As an aspiring SOC Analyst (Tier 1), I am dedicated to defending digital environ
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### Network Security & Defense
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-FF5722?style=flat&logo=shield&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-159C9C?style=flat&logo=&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-007BFF?style=flat&logo=&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1F8ACB?style=flat&logo=nmap&logoColor=white)
-![Firewall](https://img.shields.io/badge/Firewall-FF5722?style=flat&logo=shield&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat&logo=suricata&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
 ![IPsec](https://img.shields.io/badge/IPsec-9C27B0?style=flat&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS--IPS-9C27B0?style=flat&logo=shield&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ### Systems & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
