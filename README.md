@@ -43,7 +43,7 @@ As an aspiring SOC Analyst (Tier 1), I am dedicated to defending digital environ
 ---
 
 ## Projects
-
+- [Implementação de uma Infraestrutura de Monitorização e Resposta Ativa a Incidentes com Wazuh](https://github.com/An7onio5ilva/Implementa-o-de-uma-Infraestrutura-de-Monitoriza-o-e-Resposta-Ativa-a-Incidentes-com-Wazuh)
 
 ---
 
