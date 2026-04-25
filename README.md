@@ -14,31 +14,46 @@ As an aspiring SOC Analyst (Tier 1), I am dedicated to defending digital environ
 ---
 
 ## Tools & Skills
-
 ### Security Monitoring & Analysis
 ![Wazuh](https://img.shields.io/badge/Wazuh-007BFF?style=flat&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005571?style=flat&logo=wireshark&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-4CAF50?style=flat&logo=shield&logoColor=white)
 ![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-FF5722?style=flat&logo=shield&logoColor=white)
-
+![OpenVAS/Greenbone](https://img.shields.io/badge/OpenVAS%2FGreenbone-4CAF50?style=flat&logo=greenbone&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ### Network Security & Defense
 ![OPNsense](https://img.shields.io/badge/OPNsense-159C9C?style=flat&logo=&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-007BFF?style=flat&logo=&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-1F8ACB?style=flat&logo=nmap&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-FF5722?style=flat&logo=shield&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-4CAF50?style=flat&logo=shield&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white)
+![IPsec](https://img.shields.io/badge/IPsec-9C27B0?style=flat&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS--IPS-9C27B0?style=flat&logo=shield&logoColor=white)
-
-
-### Penetration Testing & Exploitation
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6600?style=flat&logo=metasploit&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ### Systems & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-01579B?style=flat&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+
+### Linux Distributions
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat&logo=rockylinux&logoColor=white)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-FF4136?style=flat&logo=almalinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-39C2D4?style=flat&logo=parrotsecurity&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
+
+### Penetration Testing & Exploitation
+![Metasploit](https://img.shields.io/badge/Metasploit-FF6600?style=flat&logo=metasploit&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=flat&logo=kali-linux&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat&logo=owasp&logoColor=white)
 
 ---
 
